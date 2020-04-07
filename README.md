@@ -7,4 +7,4 @@ https://www.covid19india.org/ is very successful in crowdsourcing the informatio
 This article doesn't contain any predictive model. The goal of this script is to do derive some categorical information and time-series trends at the state level and district level in India. "Without expert knowledge of epidemiology and public health, one should not publish any predictive model just from the time-series data.
 
 
-![Image description](link-to-image)
+![Image description]https://github.com/anandsahadevan/COVID19india_visualize/blob/master/github_image.JPG
