@@ -1,5 +1,5 @@
 # COVID19india_visualize and Predict
-Repository for the python codes to organize, visualize Api.covid19india.org API data 
+Repository for the python codes to organize, visualize Api.covid19india.org API data and Predict using SEIR and SIR models 
 
 https://www.covid19india.org/ is very successful in crowdsourcing the information from state bulletins (or official handles) to update the COVID19 trends in Indian states, districts and cities. The data is validated by a group of volunteers and published into a Google sheet, API (api.covid19india.org) and updates the website visualizations. In this article, we illustrate some of the valuable information derived from api.covid19india.org and COVID related socio-economic datasets.
 
