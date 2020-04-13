@@ -1,0 +1,26 @@
+Data types,Sources / APIs
+COVID19 API collection,https://covid-19-apis.postman.com/
+COVID19 Crowdsourcing data (India),https://www.covid19india.org/ (visualization)
+,API-Api.covid19india.org
+,https://www.mygov.in/covid-19/
+COVID19 Crowdsourcing data (World),https://github.com/CSSEGISandData/COVID-19
+,https://coronavirus.jhu.edu/
+,https://systems.jhu.edu/research/public-health/ncov/ (Visualization)
+Census Data (socio-economic statistical information about india),https://data.gov.in/
+,https://censusindia.gov.in/DigitalLibrary/Archive_home.aspx
+,http://www.epwrfits.in/
+,https://www.indiastat.com/
+,https://vikaspedia.in/InDG
+Satellite/GIS Data,https://vedas.sac.gov.in/vstatic/vegetation_monitoring/index.html
+,bhuvan.nrsc.gov.in
+,https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/air-quality
+,https://ads.atmosphere.copernicus.eu/#!/home
+Health specific Data,https://data.gov.in/
+,https://vizhub.healthdata.org/gbd-compare/india (Visualization)
+Urban Mobility/ Community Mobility Data,https://movement.uber.com/
+,https://www.google.com/covid19/mobility/
+Airline data,https://openflights.org/data.html
+,https://developer.flightstats.com/
+Other Sources,https://go.aws/covid-19-data-lake
+,https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-dataset-list?pli=1
+,https://www.elsevier.com/connect/coronavirus-information-center
